@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-## 💫 Sobre mim
+##  Sobre mim
 
 Me chamo **Diogo Cauã**, tenho trabalhado como **freelancer** nos últimos dois anos, explorando diferentes áreas do desenvolvimento e sempre buscando evoluir tanto profissional quanto pessoalmente.  
 Sou curioso por natureza e gosto de entender o funcionamento das coisas, desde pequenos detalhes até o panorama geral de um projeto.
@@ -22,7 +22,7 @@ Acredito que o aprendizado é um processo contínuo, e que a melhor forma de cre
 
 ---
 
-## 🧠 Linguagens, Tecnologias e Ferramentas
+##  Linguagens, Tecnologias e Ferramentas
 
 <p align="left">
   <img title="HTML5" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
