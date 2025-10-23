@@ -53,7 +53,7 @@ Acredito que o aprendizado é um processo contínuo, e que a melhor forma de cre
 <p align="center">
   <img 
     alt="Top Langs" 
-    height="180em" 
+    height="180px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocsiqueira&layout=compact&langs_count=8&theme=tokyonight"
   />
 </p>
@@ -61,7 +61,7 @@ Acredito que o aprendizado é um processo contínuo, e que a melhor forma de cre
 <p align="center">
   <img 
     alt="GitHub Streak" 
-    height="160em" 
+    height="180px" 
     src="https://streak-stats.demolab.com?user=diogocsiqueira&theme=tokyonight&locale=pt-br"
   />
 </p>
@@ -69,7 +69,8 @@ Acredito que o aprendizado é um processo contínuo, e que a melhor forma de cre
 <p align="center">
   <img 
     alt="Activity Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=diogocsiqueira&theme=tokyo-night"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=diogocsiqueira&theme=tokyonight"
   />
 </p>
+
 
