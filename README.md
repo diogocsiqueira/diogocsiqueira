@@ -4,7 +4,7 @@
 
 ##  Sobre mim
 
-Me chamo **Diogo Cauã**, tenho trabalhado como **freelancer** nos últimos dois anos, explorando diferentes áreas do desenvolvimento e sempre buscando evoluir tanto profissional quanto pessoalmente.  
+Me chamo **Diogo Cauã**, tenho trabalhado como **freelancer** no último ano, explorando diferentes áreas do desenvolvimento e sempre buscando evoluir tanto profissional quanto pessoalmente.  
 Sou curioso por natureza e gosto de entender o funcionamento das coisas, desde pequenos detalhes até o panorama geral de um projeto.
 
 Atualmente, estou no **último período de Análise e Desenvolvimento de Sistemas** pela **Unicesumar**, e sigo aprofundando meus conhecimentos para unir técnica, criatividade e propósito em cada projeto que realizo.
