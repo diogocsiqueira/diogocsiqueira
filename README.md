@@ -7,7 +7,7 @@
 Me chamo **Diogo Cauã**, tenho trabalhado como **freelancer** no último ano, explorando diferentes áreas do desenvolvimento e sempre buscando evoluir tanto profissional quanto pessoalmente.  
 Sou curioso por natureza e gosto de entender o funcionamento das coisas, desde pequenos detalhes até o panorama geral de um projeto.
 
-Atualmente, estou no **último período de Análise e Desenvolvimento de Sistemas** pela **Unicesumar**, e sigo aprofundando meus conhecimentos para unir técnica, criatividade e propósito em cada projeto que realizo.
+Atualmente, sou formado em **Análise e Desenvolvimento de Sistemas** pela **Unicesumar**, e sigo aprofundando meus conhecimentos para unir técnica, criatividade e propósito em cada projeto que realizo.
 
 Acredito que o aprendizado é um processo contínuo, e que a melhor forma de crescer é se desafiando constantemente e criando com propósito.
 
