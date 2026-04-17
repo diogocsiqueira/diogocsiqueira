@@ -18,8 +18,8 @@
 <h3 align="center">Especialidades</h3>
 
 <p align="center">
-  ⚙️ Backend com Java & Spring Boot • 🔗 Integração entre sistemas • 📊 Processamento de dados em tempo real <br/>
-  🚀 Automação de processos • 📡 Monitoramento e observabilidade • 🧠 Resolução de problemas em produção
+   Backend com Java & Spring Boot •  Integração entre sistemas •  Processamento de dados em tempo real <br/>
+   Automação de processos •  Monitoramento e observabilidade •  Resolução de problemas em produção
 </p>
 
 ---
