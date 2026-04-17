@@ -1,8 +1,11 @@
 <h2 align="center">Diogo Cauã Siqueira</h2>
+<p align="center">
+  <b>Java • Spring Boot • Automação • Integração de Sistemas</b>
+</p>
 
 <p align="center">
-  Desenvolvedor Full Stack com foco em Java e Spring Boot, especializado na construção de sistemas, APIs e soluções de automação em ambientes de produção.  
-  Atuo com integração entre sistemas, processamento de dados em tempo real e desenvolvimento de soluções que aumentam eficiência operacional e reduzem falhas.
+ Desenvolvedor Full Stack com foco em Java e Spring Boot, especializado no desenvolvimento de sistemas escaláveis, APIs robustas e soluções de automação para ambientes de produção.
+Atuo na construção de soluções end-to-end envolvendo integração entre sistemas, processamento de dados em tempo real e observabilidade, criando aplicações confiáveis, performáticas e orientadas à eficiência operacional.
 </p>
 
 ---
